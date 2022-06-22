@@ -16,17 +16,27 @@
 
 ## Milestone 2
 
-- Does what you have built in this milestone connect to the previous one? If so explain how. What technologies are used? Why have you used them? Have you run any commands in the terminal? If so insert them using backticks (To get syntax highlighting for code snippets add the language after the first backticks).
+- Does what you have built in this milestone connect to the previous one? Yes, it connects with the previous milestone as it enabled me to create a virtual environment, install some methods such as tensorflow, opencv etc.
 
-- Example below:
+If so explain how. What technologies are used? i used mainly Visual Studio code and  Ubuntu.
+Why have you used them? I used these technologies because it was easy for me understand
+Have you run any commands in the terminal? Yes, i ran my codes in bash terminal
+If so insert them using backticks (To get syntax highlighting for code snippets add the language after the first backticks).
 
-```git
-git add .
+```[envname]/Scripts/Activate
+```Python-m venv [envname]
+```conda env list
+
 ```
 
-- The above command is used to stage a file for the commit by adding files in the local folder to the Git repository
+- The above command is used to create a virtual environment
 
-```
+
+## Milestone 3
+
+In this milestone, i have gained foundational understanding on how to create Rock,Paper,Scissors  where the computer and a user plays and the computer had random choices.
+I used Python environment and imported the random module and nested functions
+
 
 
 
